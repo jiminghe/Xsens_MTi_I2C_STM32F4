@@ -1,0 +1,15 @@
+../Core/Src/MTi.c:18:6:MTi_init	24	static
+../Core/Src/MTi.c:27:6:MTi_detect	24	static
+../Core/Src/MTi.c:47:6:MTi_configureOutputs	80	static
+../Core/Src/MTi.c:96:6:MTi_requestDeviceInfo	24	static
+../Core/Src/MTi.c:121:6:MTi_goToConfig	24	static
+../Core/Src/MTi.c:129:6:MTi_goToMeasurement	24	static
+../Core/Src/MTi.c:136:6:MTi_sendMessage	80	dynamic
+../Core/Src/MTi.c:169:6:MTi_readMessages	16	static
+../Core/Src/MTi.c:179:8:MTi_getEulerAngles	16	static
+../Core/Src/MTi.c:186:8:MTi_getAcceleration	16	static
+../Core/Src/MTi.c:192:8:MTi_getRateOfTurn	16	static
+../Core/Src/MTi.c:197:8:MTi_getLatLon	16	static
+../Core/Src/MTi.c:203:10:MTi_getSampleTimeFine	16	static
+../Core/Src/MTi.c:207:8:MTi_getMagneticField	16	static
+../Core/Src/MTi.c:211:10:MTi_getStatusWord	16	static

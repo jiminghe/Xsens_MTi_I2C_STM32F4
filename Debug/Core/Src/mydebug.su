@@ -1,0 +1,4 @@
+../Core/Src/mydebug.c:11:6:printDebugSimple	120	static
+../Core/Src/mydebug.c:21:6:printDebug	144	static
+../Core/Src/mydebug.c:37:6:printDebugHexString	64	dynamic
+../Core/Src/mydebug.c:46:6:printDebugCharArray	64	dynamic

@@ -1,0 +1,8 @@
+../Core/Src/Xbus.c:16:6:Xbus_init	24	static
+../Core/Src/Xbus.c:33:6:Xbus_read	16	static
+../Core/Src/Xbus.c:57:6:Xbus_readPipeStatus	32	static
+../Core/Src/Xbus.c:78:6:Xbus_readPipeNotif	48	static
+../Core/Src/Xbus.c:90:6:Xbus_readPipeMeas	48	static
+../Core/Src/Xbus.c:104:6:Xbus_parseMTData2	112	static
+../Core/Src/Xbus.c:208:6:Xbus_parseNotification	24	static
+../Core/Src/Xbus.c:257:6:Xbus_dataswapendian	64	dynamic

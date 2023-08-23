@@ -1,0 +1,4 @@
+mydebug.c:11:6:printDebugSimple	1
+mydebug.c:21:6:printDebug	1
+mydebug.c:37:6:printDebugHexString	2
+mydebug.c:46:6:printDebugCharArray	2

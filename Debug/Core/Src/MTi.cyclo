@@ -1,0 +1,15 @@
+MTi.c:18:6:MTi_init	1
+MTi.c:27:6:MTi_detect	3
+MTi.c:47:6:MTi_configureOutputs	5
+MTi.c:96:6:MTi_requestDeviceInfo	2
+MTi.c:121:6:MTi_goToConfig	1
+MTi.c:129:6:MTi_goToMeasurement	1
+MTi.c:136:6:MTi_sendMessage	3
+MTi.c:169:6:MTi_readMessages	2
+MTi.c:179:8:MTi_getEulerAngles	1
+MTi.c:186:8:MTi_getAcceleration	1
+MTi.c:192:8:MTi_getRateOfTurn	1
+MTi.c:197:8:MTi_getLatLon	1
+MTi.c:203:10:MTi_getSampleTimeFine	1
+MTi.c:207:8:MTi_getMagneticField	1
+MTi.c:211:10:MTi_getStatusWord	1

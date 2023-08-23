@@ -1,0 +1,8 @@
+Xbus.c:16:6:Xbus_init	3
+Xbus.c:33:6:Xbus_read	3
+Xbus.c:57:6:Xbus_readPipeStatus	2
+Xbus.c:78:6:Xbus_readPipeNotif	3
+Xbus.c:90:6:Xbus_readPipeMeas	3
+Xbus.c:104:6:Xbus_parseMTData2	23
+Xbus.c:208:6:Xbus_parseNotification	11
+Xbus.c:257:6:Xbus_dataswapendian	3
